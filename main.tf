@@ -12,3 +12,27 @@ provider "azurerm" {
   subscription_id = "325c87ce-35de-4168-8c86-aad2f1fbf3f6"
 }
 
+
+resource "azurerm_resource_group" "RG5" {
+  name     = "anshujhy32"
+  location = "central india"
+}
+
+
+resource "azurerm_resource_group" "RG6" {
+  name     = "anshujhy3qwerw2"
+  location = "central india"
+}
+
+resource "azurerm_resource_group" "RG346" {
+  name     = "anshujhy3qwerw2e32"
+  location = "central india"
+}
+
+
+resource "azurerm_resource_group" "RG34we6" {
+  name     = "anshujhy3qwe32"
+  location = "central india"
+}
+
+
