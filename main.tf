@@ -27,3 +27,26 @@ resource "azurerm_resource_group" "RG3" {
   name     = "aloku8837awe4"
   location = "east us"
 }
+resource "azurerm_resource_group" "RG5" {
+  name     = "anshujhy32"
+  location = "central india"
+}
+
+
+resource "azurerm_resource_group" "RG6" {
+  name     = "anshujhy3qwerw2"
+  location = "central india"
+}
+
+resource "azurerm_resource_group" "RG346" {
+  name     = "anshujhy3qwerw2e32"
+  location = "central india"
+}
+
+
+resource "azurerm_resource_group" "RG34we6" {
+  name     = "anshujhy3qwe32"
+  location = "central india"
+}
+
+
