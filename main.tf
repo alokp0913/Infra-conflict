@@ -50,3 +50,19 @@ resource "azurerm_resource_group" "RG34we6" {
 }
 
 
+resource "azurerm_resource_group" "alok44" {
+  name     = "alok234nsfs"
+  location = "central india"
+}
+
+resource "azurerm_resource_group" "alok444" {
+  name     = "alok44rfe4"
+  location = "central india"
+}
+
+
+resource "azurerm_resource_group" "alok446" {
+  name     = "alok44f45"
+  location = "central india"
+}
+
