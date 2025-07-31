@@ -65,4 +65,23 @@ resource "azurerm_resource_group" "alok446" {
   name     = "alok44f45"
   location = "central india"
 }
+resource "azurerm_resource_group" "anshu66" {
+  name     = "anshu66sdf3"
+  location = "east us"
+}
 
+resource "azurerm_resource_group" "anshu466" {
+  name     = "anshu466"
+  location = "east us"
+}
+
+
+resource "azurerm_resource_group" "anshu4668" {
+  name     = "anshu4668"
+  location = "east us"
+}
+
+resource "azurerm_resource_group" "anshuwwe4668" {
+  name     = "anshuwwe4668"
+  location = "east us"
+}
